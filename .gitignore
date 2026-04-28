@@ -1,0 +1,7 @@
+*_[0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9].npy
+*.fits
+*:Zone.Identifier
+__pycache__/
+*.xz
+*logfiles*/
+*.cont.npy
