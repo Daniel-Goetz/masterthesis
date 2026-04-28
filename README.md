@@ -1,3 +1,5 @@
+all code was run on my fork of q3dfit
+
 main pipeline is:
  - multi_gauss_fit_v2.ipynb
  - neighbour_fit.ipynb
